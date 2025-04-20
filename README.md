@@ -43,3 +43,11 @@ Running task = [P4] [0] [7] for 7 units.
 Running task = [P5] [7] [4] for 4 units.
 Running task = [P6] [10] [40] for 40 units.
 ```
+![image](https://github.com/user-attachments/assets/868fb299-8b89-44a9-a89d-078a2d92cc61)
+![image](https://github.com/user-attachments/assets/b382e001-10bd-4ef4-b653-54595f7e03e0)
+![image](https://github.com/user-attachments/assets/c0f8ef6c-f717-454f-806c-544dcac1be10)
+![image](https://github.com/user-attachments/assets/72d1fb78-2a63-4496-b8c3-1029389b823e)
+![image](https://github.com/user-attachments/assets/8a3c8b49-2076-416e-9059-96af51adc90f)
+
+
+
